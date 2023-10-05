@@ -1,6 +1,6 @@
-# Free Apple Enterprise Developer Certificates
+# Free Apple iOS Enterprise Developer Certificates
 
-Welcome to the Free Apple Enterprise Developer Certificates repository!
+Welcome to the Free iOS Apple Enterprise Developer Certificates repository!
 
 ## Introduction
 
